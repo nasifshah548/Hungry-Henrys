@@ -1,0 +1,7 @@
+.logo-img {
+  max-height: 175px;
+  max-width: 200px; /* control width so it doesn’t stretch too wide */
+  width: 100%;
+  object-fit: contain;
+  display: block;
+}
